@@ -129,7 +129,7 @@ async def NCSO_whois_Parsing_handle(web域名: Match[str]):
 
 <div align="center">
 
-# 文本信息
+# 图片信息
 
 </div>
 
